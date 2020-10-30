@@ -1,0 +1,141 @@
+{
+  "main": {
+    "name": "Kazi Imam Hossain",
+    "occupation": "Web Developer | Programmer | Engineer",
+    "description": "Full Stack React Developer by Day, Freelancer by Night.",
+    "image": "KIH_Pias.png",
+    "bio": "My name is Kazi Imam Hossain, Currently studying BSc in Computer Science and Engineering at Eastern University. Coding is my passion and hard work is my strength. By these two extra-ordinary attitudes, I will be a world-class web developer very soon (In-Sha-Allah).",
+    "contactmessage": "Get in touch with me to receive further details or anything else.",
+    "email": "kazipias123@gmail.com",
+    "phone": "+88 018 66 696040",
+    "address": {
+      "street": "Merul Badda, Badda",
+      "city": "Dhaka",
+      "state": "Bangladesh",
+      "zip": ""
+    },
+    "website": "http://www.kazipias.com",
+    "resumedownload": "http://kazipias.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/iampias",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/iampias/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/i.am.pias/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/impias",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Eastern University",
+        "degree": "Bachelor of Science in Computer Science and Engineering",
+        "graduated": "January 2022",
+        "description": "Graduated with Dean Award"
+      }
+    ],
+    "work": [
+      {
+        "company": "Programing Hero",
+        "title": "Junior Web Developer and Teaching Assistant",
+        "years": "January 2020 - Present",
+        "description": "Develop Website and Teaching ReactJS to thousands of students."
+      },
+      {
+        "company": "Nongor Soft",
+        "title": "Founder and Software Engineer",
+        "years": "Jun 2020 - Present",
+        "description": "Here we build world best website for you."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "85%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      },
+      {
+        "name": "HTML, HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "CSS, CSS3",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack Creative Agency",
+        "category": "A Service Selling Website",
+        "image": "Creative_Agency.png",
+        "url": "https://github.com/ImPias/creative-agency-client"
+      },
+      {
+        "title": "MERN Stack Doctors Portal",
+        "category": "A Diagnostic Center Website",
+        "image": "Doctors_Portal.png",
+        "url": "https://github.com/ImPias/doctors-portal-client"
+      },
+      {
+        "title": "MERN Stack Volunteer Network",
+        "category": "A Social Event Management Website",
+        "image": "Volunteer_Network.png",
+        "url": "https://github.com/ImPias/volunteer-network-client"
+      },
+      {
+        "title": "Travel Guru",
+        "category": "A Simple Travel Booking Platform",
+        "image": "Travel_Guru.png",
+        "url": "https://github.com/ImPias/travel-guru"
+      },
+      {
+        "title": "Social Buddy",
+        "category": "A Simple Social Network Platform",
+        "image": "Social_Buddy.png",
+        "url": "https://github.com/ImPias/social-buddy"
+      },
+      {
+        "title": "Online Education",
+        "category": "A Simple Online Education System",
+        "image": "Online_Education.png",
+        "url": "https://github.com/ImPias/online-education"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
